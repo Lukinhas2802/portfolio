@@ -132,7 +132,7 @@ body
 
 .rodape
 {
-    padding: 22px;
+    padding: 1.4rem;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
